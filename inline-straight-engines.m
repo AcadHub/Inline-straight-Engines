@@ -1,6 +1,6 @@
 % Thermal Efficiency and Heat Loss in Inline Engine
 
-% This code is inspired by https://www.academicblock.com/technology/car-engine-technology/inline-straight-engines
+% This code is inspired by a article on inline straight engines at https://www.academicblock.com/technology/car-engine-technology/inline-straight-engines
 
 % Input parameters (user-defined or constant values)
 engine_temperature = input('Enter the engine temperature (in Kelvin): '); % Temperature of the engine (T)
